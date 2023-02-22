@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ffa6635-7824-490d-9fa5-04a629f82f0e" name="Changes" comment="attempted to remove .idea dir from version control">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Documents" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5a6a5e16-c3d7-469e-ad48-f2eeffde20e2" />
+        <option name="url" value="https://github.com/LordofDorknes/ProfHurst_PHYS240_Sp23.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2LNie12m8UjF243fMVs6QoT9YdO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Robin/PycharmProjects/ProfHurst_PHYS240_Sp23&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Settings.Markdown&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Jupyter&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Robin\PycharmProjects\ProfHurst_PHYS240_Sp23" />
+      <recent name="C:\Users\Robin\PycharmProjects\SavedScratch" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ProfHurst_PHYS240_Sp23" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ffa6635-7824-490d-9fa5-04a629f82f0e" name="Changes" comment="" />
+      <created>1675718032897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675718032897</updated>
+      <workItem from="1675718035299" duration="4513000" />
+      <workItem from="1675726725087" duration="6239000" />
+      <workItem from="1675733199739" duration="834000" />
+      <workItem from="1675734080884" duration="599000" />
+      <workItem from="1675734690320" duration="652000" />
+      <workItem from="1675735356176" duration="69000" />
+      <workItem from="1675735433512" duration="480000" />
+      <workItem from="1675735923173" duration="52000" />
+      <workItem from="1675736018987" duration="123000" />
+      <workItem from="1675736148971" duration="320000" />
+      <workItem from="1675905520155" duration="606000" />
+      <workItem from="1675906209452" duration="273000" />
+      <workItem from="1676181055546" duration="1840000" />
+      <workItem from="1676241889315" duration="4954000" />
+      <workItem from="1676832569915" duration="10334000" />
+      <workItem from="1677029175988" duration="2126000" />
+    </task>
+    <task id="LOCAL-00001" summary="Begin Definition of Binding Energy Finding fuction">
+      <created>1675724480440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675724480440</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finish Defining function to find binding energy and show it works for the specified test case">
+      <created>1675725069489</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675725069489</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added section to find binding energy per nucleon">
+      <created>1675725362076</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675725362076</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finished part b">
+      <created>1675726299814</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675726299814</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Went after c and D, fixed bug from part A that set a5 incorrectly">
+      <created>1675730258137</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675730258137</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finished off c and d. Improved formatting of answers slightly">
+      <created>1675732921682</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675732921682</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added quick statement to top, added some comments to aid understandability">
+      <created>1675733900950</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675733900950</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Created file for homework 2">
+      <created>1676242088156</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676242088156</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Wrote homework in one sitting. Was this problem incorrectly marked (long)?">
+      <created>1676243994842</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676243994842</updated>
+    </task>
+    <task id="LOCAL-00010" summary="reformatted latex embedding to prevent XeLaTeX make-pdf errors">
+      <created>1676245203278</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676245203278</updated>
+    </task>
+    <task id="LOCAL-00011" summary="reformatted latex embedding to prevent XeLaTeX make-pdf errors">
+      <created>1676246828381</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676246828381</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Began estimating constants for part b">
+      <created>1676833845142</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676833845142</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Completed Part b">
+      <created>1676845075603</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676845075603</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Completed writeup of intro and conclusion">
+      <created>1676846351312</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676846351312</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Completed writeup of intro and conclusion">
+      <created>1676847097039</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676847097039</updated>
+    </task>
+    <task id="LOCAL-00016" summary="attempted to remove .idea dir from version control">
+      <created>1677029562496</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1677029562496</updated>
+    </task>
+    <task id="LOCAL-00017" summary="attempted to remove .idea dir from version control">
+      <created>1677030419713</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1677030419713</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="c064d470-e761-4b78-aeae-b8db9004bd5b">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Begin Definition of Binding Energy Finding fuction" />
+    <MESSAGE value="Finish Defining function to find binding energy and show it works for the specified test case" />
+    <MESSAGE value="Added section to find binding energy per nucleon" />
+    <MESSAGE value="Finished part b" />
+    <MESSAGE value="Went after c and D, fixed bug from part A that set a5 incorrectly" />
+    <MESSAGE value="Finished off c and d. Improved formatting of answers slightly" />
+    <MESSAGE value="Added quick statement to top, added some comments to aid understandability" />
+    <MESSAGE value="Created file for homework 2" />
+    <MESSAGE value="Wrote homework in one sitting. Was this problem incorrectly marked (long)?" />
+    <MESSAGE value="reformatted latex embedding to prevent XeLaTeX make-pdf errors" />
+    <MESSAGE value="Began estimating constants for part b" />
+    <MESSAGE value="Completed Part b" />
+    <MESSAGE value="Completed writeup of intro and conclusion" />
+    <MESSAGE value="attempted to remove .idea dir from version control" />
+    <option name="LAST_COMMIT_MESSAGE" value="attempted to remove .idea dir from version control" />
+  </component>
+</project>
