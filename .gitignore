@@ -1,7 +1,10 @@
 # Specify filepatterns or speficiy file names you want git to ignore
-
+**/.idea
+/.idea
+/.idea/workspace.xml
+/.idea/misc.xml
 .DS_store
 */.ipynb_checkpoints/*
 /.ipynb_checkpoints
-
+*misc.xml
 */__pycache__/
